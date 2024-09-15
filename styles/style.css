@@ -116,6 +116,7 @@ ol {
 }
 
 .search-form__label-text:focus {
+  outline: none;
 }
 
 .search-form__textfield {
